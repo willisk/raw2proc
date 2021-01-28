@@ -1,0 +1,8 @@
+**__pycache__
+
+data/DroneImages/input_raw
+data/DroneImages/sub_input_numpy
+data/DroneImages/sub_target_numpy
+data/DroneImages/target
+
+kurt
